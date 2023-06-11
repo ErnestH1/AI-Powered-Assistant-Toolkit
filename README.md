@@ -1,4 +1,4 @@
-# OpenAI API Notes
+# AI-Powered-Assistant-Toolkit
 
 This readme provides instructions and examples for using the OpenAI API. It covers the installation process, configuration, and various usage scenarios. The readme includes information about the Chatbot and Orderbot as well.
 
